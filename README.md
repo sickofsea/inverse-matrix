@@ -1,11 +1,3 @@
-# Report 1 - 역행렬 계산 프로그램
-# Discrete Mathematics / 국민대학교
-# Methods:
-# 1) 행렬식을 이용한 역행렬 계산 (cofactor/adjugate)
-# 2) 가우스-조던 소거법을 이용한 역행렬 계산
-# Additional feature:
-# 3) 계산된 역행렬이 맞는지 A * A^(-1) = I 로 자동 검증
-
 EPS = 1e-10
 
 
